@@ -1,8 +1,8 @@
 # Hi, I'm Ryan 👋
 
-**Backend developer with real ERP experience.** For 2+ years I've been shipping fixes and features to a production Oracle ERP used by companies in manufacturing, distribution, retail, services and education. Now I'm also building with **Node.js**, **C#** and **AWS**.
+**Oracle PL/SQL and backend developer with real ERP experience.** For over 2.5 years I've been shipping fixes and features to a production Oracle ERP used by 25+ companies in manufacturing, distribution, retail, services and education: 388 maintenance requests delivered, with a median turnaround of 3–4 days. Now I'm also building with **Node.js** and **C#**.
 
-📍 São Bernardo do Campo, Brazil · 🌎 Open to remote roles, in Brazil and abroad · 🗣️ Advanced English
+📍 São Bernardo do Campo, Brazil · 🌎 Open to remote and hybrid roles · 🗣️ Portuguese (native), English (improving daily)
 
 ## What I bring
 
@@ -15,10 +15,11 @@
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
+| [**cnpj-alfanumerico-plsql**](https://github.com/RyanProgrwm/cnpj-alfanumerico-plsql) | Validation and check digits for Brazil's new alphanumeric CNPJ, plus dictionary scripts that find the NUMBER columns and code that will break in a legacy Oracle system. 16 utPLSQL tests on a real Oracle in CI | PL/SQL · Oracle · utPLSQL · GitHub Actions |
 | [**aprova-api**](https://github.com/RyanProgrwm/aprova-api) | Purchase orders with multi-level approval by amount: segregation of duties, audit trail, role-based JWT auth and 33 automated tests | Node.js · Express 5 · SQLite · Docker · GitHub Actions |
 | [**estoque-api**](https://github.com/RyanProgrwm/estoque-api) | Inventory control with moving weighted-average cost, per-warehouse stock, a full stock ledger and optimistic concurrency, covered by 24 tests | C# · .NET 10 · EF Core · Docker · GitHub Actions |
 
-Both come from problems I deal with at work. I rebuilt them from scratch, with fictional data.
+All three come from problems I deal with at work. I rebuilt them from scratch, with fictional data.
 
 ## Tech
 
@@ -54,7 +55,8 @@ Both come from problems I deal with at work. I rebuilt them from scratch, with f
 ## Right now
 
 - Building backend projects in Node.js and C# on top of what I know from ERP work
-- Learning AWS, starting with deploying `aprova-api` to the cloud
+- Studying English every day
+- Next: a Java / Spring Boot project and deploying to the cloud
 
 ## Contact
 
